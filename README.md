@@ -11,6 +11,6 @@ How to:
 
 
 To-do:
-1. Pull player in front of z axis to make player interactable
+1. Pull player in front of z axis to make player interactable (already implemented functionality on play/pause/repeat/volume/rewind)
 2. Put API on back wall so users can search online for songs they desire
 3. Cleanup
